@@ -1,6 +1,6 @@
 # vuetter
 
-> Twitter Clone
+> Twitter Clone using firebase
 
 ## Build Setup
 
